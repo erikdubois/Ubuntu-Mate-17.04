@@ -1,9 +1,9 @@
-# Ultimate Ubuntu Mate 16.10
+# Ultimate Ubuntu Mate 17.04
 
 We start our journey with a clean install. 
 
 Do all the updates the system already asks you to do.
-Kernel at 4.8.026.
+Kernel at 4.9.9
 
 ![Screenshots](http://i.imgur.com/ZxDdJsF.png)
 
